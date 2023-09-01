@@ -7,3 +7,16 @@
   padding: 50px 100px;
   color: white;
 }
+
+@media screen and (max-width: 1024px) {
+  .app {
+    padding: 30px 60px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .app {
+    padding: 20px 10px;
+    height: 100vh;
+  }
+}
