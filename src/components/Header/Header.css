@@ -1,0 +1,70 @@
+.header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 5px;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.nav-menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  list-style-type: none;
+  cursor: pointer;
+}
+
+.nav-menus {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-menus:hover {
+  transform: scale(1.1);
+  color: blueviolet;
+  transition: all;
+}
+
+
+@media screen and (max-width: 1200px) {
+
+  .company-logo,
+  .subheader-content,
+  .contact-number {
+    display: none;
+  }
+
+  .nav-menu {
+    padding-right: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .header {
+    font-size: 9px;
+  }
+
+  .company-logo {
+    display: none;
+  }
+
+  .main-header {
+    justify-content: center;
+  }
+
+  .nav-menu {
+    gap: 10px;
+    padding: 0;
+  }
+}

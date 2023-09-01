@@ -1,0 +1,28 @@
+{
+  "navMenus": [
+    {
+      "path": "/",
+      "label": "Главная"
+    },
+    {
+      "path": "/technology",
+      "label": "Технология"
+    },
+    {
+      "path": "/schedule",
+      "label": "График полетов"
+    },
+    {
+      "path": "/garanty",
+      "label": "Гарантии"
+    },
+    {
+      "path": "/about",
+      "label": "О компании"
+    },
+    {
+      "path": "/contact",
+      "label": "Контакты"
+    }
+  ]
+}

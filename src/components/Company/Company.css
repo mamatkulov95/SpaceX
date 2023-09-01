@@ -1,0 +1,14 @@
+.company {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 15px;
+  color: white;
+  font-size: 28px;
+  text-align: center;
+}
+
+.click-here {
+  color: yellow;
+}
