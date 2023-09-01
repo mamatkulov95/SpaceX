@@ -24,5 +24,28 @@
       "path": "/contact",
       "label": "Контакты"
     }
+  ],
+
+  "rightContent": [
+    {
+      "name": "Мы",
+      "number": 1,
+      "content": "на рынке"
+    },
+    {
+      "name": "гарантируем",
+      "number": "50%",
+      "content": "безопасность"
+    },
+    {
+      "name": "календарик за",
+      "number": 2001,
+      "content": "в подарок"
+    },
+    {
+      "name": "путешествие",
+      "number": 597,
+      "content": "дней"
+    }
   ]
 }
