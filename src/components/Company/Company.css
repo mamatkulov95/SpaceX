@@ -5,10 +5,10 @@
   flex-direction: column;
   gap: 15px;
   color: white;
-  font-size: 28px;
   text-align: center;
 }
 
 .click-here {
+  font-size: 24px;
   color: yellow;
 }

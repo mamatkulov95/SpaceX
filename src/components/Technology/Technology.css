@@ -1,0 +1,8 @@
+.technology {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding: 50px;
+  text-align: center;
+  line-height: 24px;
+}
