@@ -63,6 +63,11 @@
   color: white;
 }
 
+.form {
+  padding: 50px;
+}
+
+
 @media screen and (max-width: 1024px) {
   .content-data {
     grid-template-columns: 130px 130px;
