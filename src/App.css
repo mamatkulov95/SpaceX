@@ -1,0 +1,9 @@
+.app {
+  background-image: url('/photos/main-bg.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  padding: 50px 100px;
+  color: white;
+}
